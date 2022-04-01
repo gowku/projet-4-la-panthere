@@ -1,0 +1,39 @@
+.bg-banniere div div h2 {
+  position: relative;
+  z-index: 100;
+}
+
+#cta-hero {
+  position: relative;
+  z-index: 100;
+  color: #1e1e24 !important;
+}
+#cta-hero-2 {
+  position: relative;
+  z-index: 100;
+  color: #1e1e24 !important;
+}
+footer .col-sm-4 {
+  margin-left: 45rem;
+}
+footer ul li a {
+  color: #1e1e24 !important;
+}
+footer .text-center {
+  position: relative;
+  z-index: 100;
+}
+
+footer .col-sm-4 {
+  color: #1e1e24 !important;
+}
+
+footer .col-sm-12 p {
+  color: #1e1e24 !important;
+}
+.fa-twitter,
+.fa-facebook,
+.fa-dribbble,
+.fa-instagram {
+  color: #1e1e24 !important;
+}
