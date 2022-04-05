@@ -37,3 +37,15 @@ footer .col-sm-12 p {
 .fa-instagram {
   color: #1e1e24 !important;
 }
+
+.container-social {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.lien-responsive-correction {
+  height: auto;
+}
+.image-responsive-correction {
+  width: 570px;
+}
